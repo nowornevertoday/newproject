@@ -1,0 +1,81 @@
+{
+    "responseData": [
+        {
+            "updatedTime": 1585728924033,
+            "updatedBy": "zxr_xy",
+            "bannerDesc": "",
+            "bannerUpTime": 1585728309000,
+            "bannerStatus": "1",
+            "bannerTitle": "智慧政策",
+            "bannerModule": "0",
+            "createdBy": "zxr_xy",
+            "bannerImageUrl": "https://zxr.gdjr.gd.gov.cn/newsimages/c5c85fbd450a4e3ca7bfe71051adb7df.png",
+            "bannerOrder": 5,
+            "createdTime": 1585728371146,
+            "id": 119,
+            "bannerTargetUrl": "https://zxr.gdjr.gd.gov.cn/bob/index.html"
+        },
+        {
+            "updatedTime": 1592883328358,
+            "updatedBy": "zxr_xy",
+            "bannerDesc": "",
+            "bannerUpTime": 1591863773000,
+            "bannerStatus": "1",
+            "bannerTitle": "03",
+            "bannerModule": "0",
+            "createdBy": "zxr_xy",
+            "bannerImageUrl": "https://zxr.gdjr.gd.gov.cn/newsimages/82a12f33a42c43748783eadbb988a8df.png",
+            "bannerOrder": 97,
+            "createdTime": 1591863800562,
+            "id": 128,
+            "bannerTargetUrl": "https://zxr.gdjr.gd.gov.cn/portal/static/main/financeDetail.html?id=4700&activeName=second"
+        },
+        {
+            "updatedTime": 1592883320201,
+            "updatedBy": "zxr_xy",
+            "bannerDesc": "",
+            "bannerUpTime": 1591863690000,
+            "bannerStatus": "1",
+            "bannerTitle": "02",
+            "bannerModule": "0",
+            "createdBy": "zxr_xy",
+            "bannerImageUrl": "https://zxr.gdjr.gd.gov.cn/newsimages/24d0c4f414b044efa5e4352ae3c07c74.png",
+            "bannerOrder": 98,
+            "createdTime": 1591863722425,
+            "id": 127,
+            "bannerTargetUrl": "https://zxr.gdjr.gd.gov.cn/portal/static/main/financeDetail.html?id=4695&activeName=first"
+        },
+        {
+            "updatedTime": 1592980635364,
+            "updatedBy": "zxr_xy",
+            "bannerDesc": "",
+            "bannerUpTime": 1592890947000,
+            "bannerStatus": "1",
+            "bannerTitle": "调研",
+            "bannerModule": "0",
+            "createdBy": "zxr_xy",
+            "bannerImageUrl": "https://zxr.gdjr.gd.gov.cn/newsimages/663efbc0ab1c4530b62b74e5347473cb.jpg",
+            "bannerOrder": 99,
+            "createdTime": 1592883232648,
+            "id": 131,
+            "bannerTargetUrl": "https://zxr.gdjr.gd.gov.cn/portal/static/main/financeDetail.html?id=4730&activeName=third"
+        },
+        {
+            "updatedTime": 1591857838708,
+            "updatedBy": "zxr_xy",
+            "bannerDesc": "",
+            "bannerUpTime": 1591857830000,
+            "bannerStatus": "1",
+            "bannerTitle": "banner611",
+            "bannerModule": "0",
+            "createdBy": "zxr_xy",
+            "bannerImageUrl": "https://zxr.gdjr.gd.gov.cn/newsimages/1dc376ec57a740faafc2b9bbcbbf1104.png",
+            "bannerOrder": 100,
+            "createdTime": 1587632569430,
+            "id": 121,
+            "bannerTargetUrl": ""
+        }
+    ],
+    "responseMessage": "SUCESS",
+    "responseCode": "000000"
+}
